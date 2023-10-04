@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
+
     public static double findMin(double a, double b, double c) {
         double min = a;
         if (min > b) {
